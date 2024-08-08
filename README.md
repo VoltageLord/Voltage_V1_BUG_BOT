@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VaaUfPO8q">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/20ff3c4eb008e268d6362.jpg">
+    <img alt="wasi" height="300" src="https://telegra.ph/file/cc4a24fc24a8ec395f845.jpg">
     <h1 align="center">Voltage_V1_BUG_BOT</h1>
   </a>
 </p>
