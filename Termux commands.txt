@@ -20,9 +20,9 @@
 
 11. termux-setup-storage
 
-12 git clone https://github.com/prexzybooster/PREXZY-BUG-BOT 
+12 git clone https://github.com/VoltageLord/Voltage_V1_BUG_BOT 
 
-12. cd PREXZY-BUG-BOT
+12. cd Voltage_V1_BUG_BOT 
 
 14. yarn install
 
