@@ -1,17 +1,17 @@
 <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/3a21bf26bedef7966fd74.jpg">
-    <h1 align="center">PREXZY-BUG-BOT</h1>
+  <a href="https://whatsapp.com/channel/0029VaaUfPO8q">
+    <img alt="wasi" height="300" src="https://telegra.ph/file/20ff3c4eb008e268d6362.jpg">
+    <h1 align="center">Voltage_V1_BUG_BOT</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Prexzybooster"><img title="Author" src="https://img.shields.io/badge/Prexzybooster-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/2349159895444"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/VoltageLord"><img title="Author" src="https://img.shields.io/badge/VoltageLord-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/2349155298855"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 
    
    
    
- PREXZY BUG BOT
-### this code copy from dj xeon  all credits for him
+ Voltage_V1_BUG_BOT
+### this code copy from Prexzy  all credits for him
 
 ```
 atp update
@@ -39,10 +39,10 @@ termux-setup-storage
 ```
 
 ```
-git clone https://github.com/prexzybooster/PREXZY-BUG-BOT 
+git clone https://github.com/VoltageLord/Voltage_V1_BUG_BOT
 ```
 ```
- cd PREXZY-BUG-BOT
+ cd Voltage_V1_BUG_BOT
 ```
 ```
 yarn install
