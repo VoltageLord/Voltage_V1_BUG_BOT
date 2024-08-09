@@ -175,9 +175,9 @@ XeonBotInc.ev.on("connection.update",async  (s) => {
 			await delay(1999)
             console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`[ ${botname} ]`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
-	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: Prexzyvilla`))
-            console.log(chalk.magenta(`${themeemoji} GITHUB: Prexzybooster `))
-            console.log(chalk.magenta(`${themeemoji} INSTAGRAM: @prexzy.ay `))
+	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: voltageprotech`))
+            console.log(chalk.magenta(`${themeemoji} GITHUB: VoltageLord `))
+            console.log(chalk.magenta(`${themeemoji} YOUTUBE: @Voltageprotech `))
             console.log(chalk.magenta(`${themeemoji} WA NUMBER: ${owner}`))
             console.log(chalk.magenta(`${themeemoji} CREDIT: ${wm}\n`))
         }
