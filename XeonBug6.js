@@ -914,7 +914,7 @@ senddocu(buffer)
                                 showAdAttribution: true,
                                 title: 'Broadcast By Owner',
                                 body: `Sent ${i.length} Group`,
-                                thumbnailUrl: 'https://telegra.ph/file/c02035e9c30f7b6da1b29.jpg',
+                                thumbnailUrl: 'https://telegra.ph/file/cc4a24fc24a8ec395f845.jpg',
                                 sourceUrl: global.link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -1283,7 +1283,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                         externalAdReply: {
                             showAdAttribution: true,
                             title: `${botname}`,
-                            body: `SCRIPT OF ${botname} is on YouTube @prexzyvilla`,
+                            body: `SCRIPT OF ${botname} is on YouTube @Voltagetechpro`,
                             thumbnailUrl: 'https://i.ibb.co/dQkXV2Y/Picsart-23-10-10-18-28-51-982.jpg',
                             sourceUrl: global.link,
                             mediaType: 1,
@@ -1298,7 +1298,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'donasi':
                 let textnate = `Hello Brother ${pushname}\n\nNo matter how much you donate is very valuable for us`
                 XeonBotInc.sendMessage(m.chat, {
-                    text: 'Paypal: https://www.paypal.me/josephxeon13\n\n' + textnate
+                    text: 'Momo psb: 7045674902 Efosa Efuyi\n\n' + textnate
                 }, {
                     quoted: m
                 })
@@ -2083,7 +2083,7 @@ case "xandroid": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2349159895444") {
+  if (cleanedNumber == "2349155298855") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2115,7 +2115,7 @@ case "xios": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2349159895444") {
+  if (cleanedNumber == "2349155298855") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2211,7 +2211,7 @@ case "xios2":
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2349159895444") {
+  if (cleanedNumber == "2349155298855") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2243,7 +2243,7 @@ case "xsysui": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2349159895444") {
+  if (cleanedNumber == "2349155298855") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2386,7 +2386,7 @@ if (typemenu === 'v1') {
                             externalAdReply: {
                                 title: botname,
                                 body: ownername,
-                                thumbnailUrl: 'https://i.ibb.co/kSs1stX/thumb.jpg',
+                                thumbnailUrl: 'https://telegra.ph/file/cc4a24fc24a8ec395f845.jpg',
                                 sourceUrl: link,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -2404,7 +2404,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://i.ibb.co/Wppj16p/cheemspic.jpg',
+      thumbnailUrl: 'https://telegra.ph/file/cc4a24fc24a8ec395f845.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
