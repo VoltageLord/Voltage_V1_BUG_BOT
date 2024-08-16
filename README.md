@@ -14,8 +14,7 @@
  
 
 
-### 2.
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [Voltage_V1_BUG_BOT](https://github.com/VoltageLord/Voltage_V1_BUG_BOT) ON ANY TERMINAL
+### 2. COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [Voltage_V1_BUG_BOT](https://github.com/VoltageLord/Voltage_V1_BUG_BOT) ON ANY TERMINAL
 ```
 sudo apt -y update && sudo apt -y upgrade
 ```
