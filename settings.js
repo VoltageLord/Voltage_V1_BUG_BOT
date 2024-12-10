@@ -9,8 +9,8 @@ global.socialm = "GitHub: VoltageLord"
 global.location = "Nigeria, Edo, Benin"
 
 global.ownernumber = '2349155298855'  //creator number
-global.ownername = 'Voltage Lord' //owner name
-global.botname = 'Voltage_V1_BUG_BOT' //name of the bot
+global.ownername = 'SHAHZADA' //owner name
+global.botname = 'Shahzada_V1_BUG_BOT' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
